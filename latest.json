@@ -1,0 +1,38 @@
+{
+  "manifest": {
+    "format": 1,
+    "sequence": 8,
+    "version": "19e760742e6f18507a38753c14587048cf4c1f2879c60c13e50f5544ca2aaf9a",
+    "sha256": "cb8d76d25cada75659b53dd0e7108624aa9a48168c5a9ae236981d06eaed4128",
+    "files": {
+      "arang_reference_engine.py": "6bd8c66298d611ba585ab21c1fb601de8bdff2de7ef9170891bf89a9ef454c09",
+      "audio_cleanup.py": "c05140fafabf178a57a89dc52d66143b343125c209e8140b25fdcd2c303f4d03",
+      "main.py": "433517e71d436a964e624ce98b5751170abc96be8257f6f31a4759acfd980238",
+      "personal_api.py": "fdf493aa90362427a26bc3f6b6c6f31d188be001b3bfaf5324a12aa43facb15b",
+      "profile_voice_engine.py": "c892a767a72b8ff341edfd776d9624f7047314ab341c2ebef08cdc11abf3c50f",
+      "qwen-model-manifest.json": "3ab36de07e795c20472b89d1c0d575dbfd79893406784537f3e44a774da2422f",
+      "requirements.txt": "a722627c2352ceac35bfca7ee2afdd3d612a324b5aa4e6c83c3fda611f52959b",
+      "static/index.html": "8ca9af82e924cede958785d9dbf217d0aedaf2749402f899ab65cabb4034c3b5",
+      "workspaces.py": "0d13bde104967157f569b246378da106131f22d59a851b6b59f8d89ec52c70ab",
+      "runtime/qwen_tts/__init__.py": "2f2d51d7c65be2afa47675760dafb57f0f8cf48d4db3f4aa337b3bb4561004b5",
+      "runtime/qwen_tts/__main__.py": "4d6bf666d823b75737187b3113c224c38dd3c6caff92bf870eb468df60473a25",
+      "runtime/qwen_tts/cli/demo.py": "1745c1a73d125143382872b9204873fba571f54f3c87a9502cdacaa154209342",
+      "runtime/qwen_tts/core/__init__.py": "abfad2a7726b274cd1f48d3d6338861b7c45e6d8529ba5ae22ec42cb170961cb",
+      "runtime/qwen_tts/core/models/__init__.py": "34e35099ec023050f72228bbccc382cf1603d4f0fa71ac609e1c493d134e1b0f",
+      "runtime/qwen_tts/core/models/configuration_qwen3_tts.py": "521a9c8fe6cfb1ef8f37294208af6e7506dedba7a293e3b23fe77547485dcd44",
+      "runtime/qwen_tts/core/models/modeling_qwen3_tts.py": "9a13e06ed6c12d7282b1af9f5b701bdad1becb2546093c6c8da06c2ab2664f8c",
+      "runtime/qwen_tts/core/models/processing_qwen3_tts.py": "fde4f0355eac62e2ec9ca7d7ddeee1ed2d5ce6898595326e3bd9985558e8fa1f",
+      "runtime/qwen_tts/core/tokenizer_12hz/configuration_qwen3_tts_tokenizer_v2.py": "11ee952ec1622d68d63ca458a0f7a914afd5597daa8058f02f9cdc4e8183380c",
+      "runtime/qwen_tts/core/tokenizer_12hz/modeling_qwen3_tts_tokenizer_v2.py": "c2f977ed30c0eafde6c38da8d2b5e99aafab369834820bee443e34e259a7bbf3",
+      "runtime/qwen_tts/core/tokenizer_25hz/configuration_qwen3_tts_tokenizer_v1.py": "afbed364edb11b715451e9caa6ba89ff4bc4a63cce2247954631c37158167086",
+      "runtime/qwen_tts/core/tokenizer_25hz/modeling_qwen3_tts_tokenizer_v1.py": "348a058a3edb69fb120ffaff85927649c6b61d95a3d29e980e6904412fd83739",
+      "runtime/qwen_tts/core/tokenizer_25hz/vq/core_vq.py": "1d3ed4fa011ce3e82a0da6b1d75dbb5dd1e43a6a3732061efdc9c73dc237d5ee",
+      "runtime/qwen_tts/core/tokenizer_25hz/vq/speech_vq.py": "b858121366770e1638cc14ae2ebe2439c10a9c1309e58c6a4983093eff17d3a9",
+      "runtime/qwen_tts/core/tokenizer_25hz/vq/whisper_encoder.py": "df452748bba4fe66288fcb896612b9fed01210b6431b6148a24be1d422de71d7",
+      "runtime/qwen_tts/inference/qwen3_tts_model.py": "76b3e6f4f28af0da260c7d1d248cd6574737fdac8e7cc4847dd334fa48b85705",
+      "runtime/qwen_tts/inference/qwen3_tts_tokenizer.py": "3d5f0bd92c038d48392c0df9fc64a9cd27daf719f1cfb37e55d016b425737a8e",
+      "runtime/QWEN-LICENSE.txt": "7137274bab133744763a3906ace2a13844c2b34635136fc6d4454c25bfd76eda"
+    }
+  },
+  "signature": "z8mhPfKnZ1wFzmhX3oSwDOzVfDA2CUtjGTLiljpQ4rIr00cyELqbKGK14HLC2u1SdGR0+oj1l5dnABYnQ2g4Ag=="
+}
