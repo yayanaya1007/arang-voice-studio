@@ -1,11 +1,11 @@
 {
   "manifest": {
     "format": 1,
-    "sequence": 13,
-    "version": "61a5ebb274f3aa1173fb1c87746915492d6060291a53230cf1fc1ec2df57ac8f",
-    "sha256": "efd292f66e3e956f045a58fea61733b8ab2b288f1796c93e1edcfd64f44295fc",
+    "sequence": 15,
+    "version": "7d79d8426aac58a3b22193f461cd0438b52129bc5aa99b0a7f7ad53f29dce705",
+    "sha256": "d779425b66b2ff180ba79ebd987fffde22e5379b377de3d9e57bb9ae2e29f246",
     "files": {
-      "arang_reference_engine.py": "5358eaaa8699c8bb0c7562868b95185dd3849039fd39e571a4a407c124d9f6e5",
+      "arang_reference_engine.py": "e04609bc41cf563837f057938b8fb3b73a41804b4dac9af6b12c54524f6e74f9",
       "audio_cleanup.py": "86dc71f05de73985f544b09bfd4ae8b395d4cf582752b3b001d8ed607a8d0dda",
       "main.py": "69ab37182e768fa78904a32b5d3e05443e6a75b0a6474222be6868b85ce7c705",
       "personal_api.py": "fdf493aa90362427a26bc3f6b6c6f31d188be001b3bfaf5324a12aa43facb15b",
@@ -34,5 +34,5 @@
       "runtime/QWEN-LICENSE.txt": "7137274bab133744763a3906ace2a13844c2b34635136fc6d4454c25bfd76eda"
     }
   },
-  "signature": "sHRLr6gdjusq6r4kHYO0mbr/koG8Gk/BHRQIABzMpgfD9Jd/JCwuFynLbWZNoFnTuAHZenRuoRJccY+ZSAaUAw=="
+  "signature": "LgC99jUO2MyXjcXcXdpkP2IJA/omw6H6fBlAIuiQz9ENbyrxbjnGYFKWf9YkLwoJP6b9cBgXd85OQ1ZGfgmfBw=="
 }
