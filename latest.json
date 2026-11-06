@@ -1,19 +1,19 @@
 {
   "manifest": {
     "format": 1,
-    "sequence": 10,
-    "version": "b66c9567d6e340498990cd6d0464e27ce4aa62e9e646bc4cb717ebd9102e6bcd",
-    "sha256": "f5a9e60464b49482f4eb347614d7126d77dde22ed11c53752c45c7d83bda5c40",
+    "sequence": 13,
+    "version": "61a5ebb274f3aa1173fb1c87746915492d6060291a53230cf1fc1ec2df57ac8f",
+    "sha256": "efd292f66e3e956f045a58fea61733b8ab2b288f1796c93e1edcfd64f44295fc",
     "files": {
-      "arang_reference_engine.py": "9e40b0ff9365a02eeeca24182018746bc2dcb5718bac923d29b1b83380b30f21",
+      "arang_reference_engine.py": "5358eaaa8699c8bb0c7562868b95185dd3849039fd39e571a4a407c124d9f6e5",
       "audio_cleanup.py": "86dc71f05de73985f544b09bfd4ae8b395d4cf582752b3b001d8ed607a8d0dda",
-      "main.py": "db5d3eb3497ac54bf52d9b1f58ee235334a2a76fac5ba3c739140d0d8eaa6d08",
+      "main.py": "69ab37182e768fa78904a32b5d3e05443e6a75b0a6474222be6868b85ce7c705",
       "personal_api.py": "fdf493aa90362427a26bc3f6b6c6f31d188be001b3bfaf5324a12aa43facb15b",
       "profile_voice_engine.py": "c892a767a72b8ff341edfd776d9624f7047314ab341c2ebef08cdc11abf3c50f",
       "qwen-model-manifest.json": "3ab36de07e795c20472b89d1c0d575dbfd79893406784537f3e44a774da2422f",
       "requirements.txt": "a722627c2352ceac35bfca7ee2afdd3d612a324b5aa4e6c83c3fda611f52959b",
-      "static/index.html": "d785d091eaf8fec48308b88dbdfaf8b7afd3ffa3ba33b0664ec62685b3174e3f",
-      "workspaces.py": "0d13bde104967157f569b246378da106131f22d59a851b6b59f8d89ec52c70ab",
+      "static/index.html": "a6e351b1ad3b4ad4ee949d2b2b5767733856f1dab0254c4f77db7c46c5234cde",
+      "workspaces.py": "40b98d18f2b7849b812594674092d14d43d82e8d389d2c058c424ac79e7eefb1",
       "runtime/qwen_tts/__init__.py": "2f2d51d7c65be2afa47675760dafb57f0f8cf48d4db3f4aa337b3bb4561004b5",
       "runtime/qwen_tts/__main__.py": "4d6bf666d823b75737187b3113c224c38dd3c6caff92bf870eb468df60473a25",
       "runtime/qwen_tts/cli/demo.py": "1745c1a73d125143382872b9204873fba571f54f3c87a9502cdacaa154209342",
@@ -34,5 +34,5 @@
       "runtime/QWEN-LICENSE.txt": "7137274bab133744763a3906ace2a13844c2b34635136fc6d4454c25bfd76eda"
     }
   },
-  "signature": "r/SBKv+eFnIy/72YJyDOkF/dX/b5xBaAq36duUvYJ0JCIYbWo/F2wdxmb+XyCEUKdQqWpGF5B5bGFZzcVapmBw=="
+  "signature": "sHRLr6gdjusq6r4kHYO0mbr/koG8Gk/BHRQIABzMpgfD9Jd/JCwuFynLbWZNoFnTuAHZenRuoRJccY+ZSAaUAw=="
 }
